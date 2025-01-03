@@ -130,11 +130,11 @@ sample text file contain several sentence word punctuation
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/CodeHive-by-Jay/Mini-NLP-Tool-for-CodeHive
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mini-nlp-toolkit
+   cd Mini-NLP-Tool-for-CodeHive
    ```
 3. Install dependencies:
    ```bash
