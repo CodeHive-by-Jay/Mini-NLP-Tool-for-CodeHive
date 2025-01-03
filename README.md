@@ -1,4 +1,4 @@
-# Mini NLP Toolkit Documentation
+# Mini NLP Toolkit
 
 ## Overview
 
