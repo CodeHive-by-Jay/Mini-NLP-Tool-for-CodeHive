@@ -7,22 +7,19 @@ The **Mini NLP Toolkit** is a lightweight package designed for basic natural lan
 ## Project Structure
 
 ```
-mini-nlp-toolkit/
-├── README.md
-├── requirements.txt
-├── setup.py
-├── toolkit/
-│   ├── __init__.py
-│   ├── preprocess.py
-│   ├── utils.py
-├── examples/
-│   ├── example_script.py
-│   ├── sample_texts/
-│       ├── sample1.txt
-│       ├── sample2.txt
-├── data/
-│   ├── output/
-└── .gitignore
+Directory structure:
+└── CodeHive-by-Jay-Mini-NLP-Tool-for-CodeHive/
+    ├── README.md
+    ├── LICENSE
+    ├── requirements.txt
+    ├── setup.py
+    ├── tests/
+    │   └── test_preprocess.py
+    └── toolkit/
+        ├── __init__.py
+        ├── preprocess.py
+        └── utils.py
+
 ```
 
 ### Key Directories and Files
@@ -144,7 +141,7 @@ sample text file contain several sentence word punctuation
 
 ## Supported File Formats
 
-- `.``txt`: Plain text files.
+- `.txt`: Plain text files.
 - `.csv`: Comma-separated values files.
 - `.json`: JSON files.
 - `.docx`: Word documents.
