@@ -177,7 +177,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or suggestions, please contact:
 **Souop Silvain Brayan**
-## Let’s Connect  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-j4y/) 
 [![Github](https://img.shields.io/badge/CodeHive%20by%20Jay-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brayanj4y/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayanj4y)  
