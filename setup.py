@@ -11,9 +11,9 @@ setup(
     description="A compact toolkit for basic NLP preprocessing tasks.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="your_email@example.com",
-    url="https://github.com/yourusername/mini-nlp-toolkit",
+    author="Souop Silvain Brayan",
+    author_email="souopsylvain@gmail.com",
+    url="https://github.com/CodeHive-by-Jay/Mini-NLP-Tool-for-CodeHive",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
