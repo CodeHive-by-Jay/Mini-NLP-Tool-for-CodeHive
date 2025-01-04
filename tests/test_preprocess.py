@@ -38,5 +38,17 @@ class TestMiniNLPToolkit(unittest.TestCase):
         self.assertNotIn("is", preprocessed.split())
         self.assertNotIn("and", preprocessed.split())
 
+    def test_empty_input(self):
+        with self.assertRaises(ValueError):
+            self.toolkit.tokenize("")
+        with self.assertRaises(ValueError):
+            self.toolkit.normalize("")
+        with self.assertRaises(ValueError):
+            self.toolkit.remove_stopwords([])
+        with self.assertRaises(ValueError):
+            self.toolkit.stem([])
+        with self.assertRaises(ValueError):
+            self.toolkit.lemmatize([])
+
 if __name__ == "__main__":
     unittest.main()

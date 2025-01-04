@@ -27,6 +27,8 @@ Directory structure:
 - **`toolkit/`**: Contains the core functionality of the toolkit.
 - **`README.md`**: Provides an overview of the package.
 - **`requirements.txt`**: Lists dependencies required for the project.
+- **`setup.py`**: Contains metadata for package distribution.
+- **`tests/`**: Contains unit tests for validating the functionality.
 
 
 ## Features
