@@ -25,7 +25,6 @@ Directory structure:
 ### Key Directories and Files
 
 - **`toolkit/`**: Contains the core functionality of the toolkit.
-- **`data/`**: Stores input files (`sample_texts/`) and output files (`output/`).
 - **`README.md`**: Provides an overview of the package.
 - **`requirements.txt`**: Lists dependencies required for the project.
 
