@@ -25,7 +25,6 @@ Directory structure:
 ### Key Directories and Files
 
 - **`toolkit/`**: Contains the core functionality of the toolkit.
-- **`examples/`**: Demonstrates how to use the package.
 - **`data/`**: Stores input files (`sample_texts/`) and output files (`output/`).
 - **`README.md`**: Provides an overview of the package.
 - **`requirements.txt`**: Lists dependencies required for the project.
@@ -173,7 +172,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For questions or suggestions, please contact the developer:
-**Souop Silvain Brayan**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-j4y/) 
 [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brayanj4y/)
